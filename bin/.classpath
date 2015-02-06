@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry excluding="src/|misc/" kind="src" path=""/>
+	<classpathentry kind="src" path="misc"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="lib" path="C:/Users/Jonathan/Downloads/selenium-server-standalone-2.43.1.jar"/>
+	<classpathentry kind="lib" path="misc/selendroid-standalone-0.12.0-with-dependencies.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

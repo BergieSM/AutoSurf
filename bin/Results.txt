@@ -1,0 +1,1029 @@
+Run ended:		2014-11-21T20:42:00.100Z
+Run started:	2014-11-21T20:40:58.740Z
+Run duration:	PT1M1.36S
+clientsManageTest: Pass
+clientsLoginAsClientTest: Pass
+clientsExportTest: Pass
+shopsShopToolsTest: Pass
+shopsReviewShopsTest: Pass
+shopsScheduleShopsTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperToolsTest: Pass
+administratorsTrackerOptionsTest: Pass
+administratorsCreateClientsTest: Pass
+administratorsAddSurveyTest: Pass
+administratorsManageTest: Pass
+administratorsSurveyToolsTest: Pass
+administratorsCustomAdminFunctionsTest: Pass
+Run Complete: 15 passed, 0 failed.
+
+Run ended:		2014-11-24T18:20:09.303Z
+Run started:	2014-11-24T18:17:43.396Z
+Run duration:	PT2M25.907S
+clientsManageTest: Pass
+clientsLoginAsClientTest: Pass
+clientsExportTest: Pass
+shopsShopToolsTest: Pass
+shopsReviewShopsTest: Pass
+shopsScheduleShopsTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperToolsTest: Pass
+administratorsTrackerOptionsTest: Pass
+administratorsCreateClientsTest: Pass
+administratorsAddSurveyTest: Pass
+administratorsManageTest: Pass
+administratorsSurveyToolsTest: Pass
+administratorsCustomAdminFunctionsTest: Pass
+clientsManageTest: Pass
+clientsLoginAsClientTest: Pass
+clientsExportTest: Pass
+shopsShopToolsTest: Fail
+shopsReviewShopsTest: Pass
+shopsScheduleShopsTest: Fail
+shoppersShopperBillingTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperToolsTest: Pass
+administratorsTrackerOptionsTest: Pass
+administratorsCreateClientsTest: Pass
+administratorsAddSurveyTest: Pass
+administratorsManageTest: Fail
+administratorsSurveyToolsTest: Pass
+administratorsCustomAdminFunctionsTest: Fail
+Run Complete: 26 passed, 4 failed.
+
+Run ended:		2014-11-24T18:26:11.413Z
+Run started:	2014-11-24T18:24:27.113Z
+Run duration:	PT1M44.3S
+clientsManageTest: Pass
+clientsLoginAsClientTest: Pass
+clientsExportTest: Pass
+shopsShopToolsTest: Pass
+shopsReviewShopsTest: Pass
+shopsScheduleShopsTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperToolsTest: Pass
+administratorsTrackerOptionsTest: Pass
+administratorsCreateClientsTest: Pass
+administratorsAddSurveyTest: Pass
+administratorsManageTest: Pass
+administratorsSurveyToolsTest: Pass
+administratorsCustomAdminFunctionsTest: Pass
+clientsManageTest: Pass
+clientsLoginAsClientTest: Pass
+clientsExportTest: Pass
+shopsShopToolsTest: Pass
+shopsReviewShopsTest: Pass
+shopsScheduleShopsTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperToolsTest: Pass
+administratorsTrackerOptionsTest: Pass
+administratorsCreateClientsTest: Pass
+administratorsAddSurveyTest: Pass
+administratorsManageTest: Pass
+administratorsSurveyToolsTest: Pass
+administratorsCustomAdminFunctionsTest: Pass
+Run Complete: 30 passed, 0 failed.
+
+Run ended:		2014-11-24T19:11:21.090Z
+Run started:	2014-11-24T19:09:05.919Z
+Run duration:	PT2M15.171S
+clientsManageTest: Pass
+clientsLoginAsClientTest: Pass
+clientsExportTest: Pass
+shopsShopToolsTest: Pass
+shopsReviewShopsTest: Pass
+shopsScheduleShopsTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperToolsTest: Pass
+administratorsTrackerOptionsTest: Pass
+administratorsCreateClientsTest: Pass
+administratorsAddSurveyTest: Pass
+administratorsManageTest: Pass
+administratorsSurveyToolsTest: Pass
+administratorsCustomAdminFunctionsTest: Pass
+clientsManageTest: Pass
+clientsLoginAsClientTest: Pass
+clientsExportTest: Pass
+shopsShopToolsTest: Pass
+shopsReviewShopsTest: Pass
+shopsScheduleShopsTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperToolsTest: Pass
+administratorsTrackerOptionsTest: Pass
+administratorsCreateClientsTest: Pass
+administratorsAddSurveyTest: Pass
+administratorsManageTest: Pass
+administratorsSurveyToolsTest: Pass
+administratorsCustomAdminFunctionsTest: Pass
+Run Complete: 30 passed, 0 failed.
+
+Run ended:		2014-11-24T19:16:51.667Z
+Run started:	2014-11-24T19:13:12.925Z
+Run duration:	PT3M38.742S
+AutoSchedulerTest: Pass
+AutoSchedulerTest: Pass
+AutoSchedulerTest: Pass
+AutoSchedulerTest: Pass
+AutoSchedulerTest: Pass
+clientsManageTest: Pass
+clientsLoginAsClientTest: Pass
+clientsExportTest: Pass
+shopsShopToolsTest: Pass
+shopsReviewShopsTest: Pass
+shopsScheduleShopsTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperToolsTest: Pass
+administratorsTrackerOptionsTest: Pass
+administratorsCreateClientsTest: Pass
+administratorsAddSurveyTest: Pass
+administratorsManageTest: Pass
+administratorsSurveyToolsTest: Pass
+administratorsCustomAdminFunctionsTest: Pass
+clientsManageTest: Pass
+clientsLoginAsClientTest: Pass
+clientsExportTest: Pass
+shopsShopToolsTest: Pass
+shopsReviewShopsTest: Pass
+shopsScheduleShopsTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperToolsTest: Pass
+administratorsTrackerOptionsTest: Pass
+administratorsCreateClientsTest: Pass
+administratorsAddSurveyTest: Pass
+administratorsManageTest: Pass
+administratorsSurveyToolsTest: Pass
+administratorsCustomAdminFunctionsTest: Pass
+Run Complete: 35 passed, 0 failed.
+
+Run ended:		2014-11-24T19:26:05.863Z
+Run started:	2014-11-24T19:24:04.210Z
+Run duration:	PT2M1.653S
+clientsManageTest: Pass
+clientsLoginAsClientTest: Pass
+clientsExportTest: Pass
+shopsShopToolsTest: Pass
+shopsReviewShopsTest: Pass
+shopsScheduleShopsTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperToolsTest: Pass
+administratorsTrackerOptionsTest: Pass
+administratorsCreateClientsTest: Pass
+administratorsAddSurveyTest: Pass
+administratorsManageTest: Pass
+administratorsSurveyToolsTest: Pass
+administratorsCustomAdminFunctionsTest: Pass
+clientsManageTest: Pass
+clientsLoginAsClientTest: Pass
+clientsExportTest: Pass
+shopsShopToolsTest: Pass
+shopsReviewShopsTest: Pass
+shopsScheduleShopsTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperToolsTest: Pass
+administratorsTrackerOptionsTest: Pass
+administratorsCreateClientsTest: Pass
+administratorsAddSurveyTest: Pass
+administratorsManageTest: Pass
+administratorsSurveyToolsTest: Pass
+administratorsCustomAdminFunctionsTest: Pass
+Run Complete: 30 passed, 0 failed.
+
+Run ended:		2014-11-24T19:38:47.764Z
+Run started:	2014-11-24T19:36:27.353Z
+Run duration:	PT2M20.411S
+AutoSchedulerTest: Pass
+AutoSchedulerTest: Pass
+AutoSchedulerTest: Pass
+AutoSchedulerTest: Pass
+AutoSchedulerTest: Pass
+Testing MSPMSAdminLinkSelect throwing exception: Pass
+Testing MSPGlobalLinkSelect throwing exception: Pass
+Testing MSPDBLinkSelect throwing exception: Pass
+Testing MSPAdminLinkSelect throwing exception: Pass
+Testing MSPHomeLinkSelect throwing exception: Pass
+clientsManageTest: Pass
+clientsLoginAsClientTest: Pass
+clientsExportTest: Pass
+shopsShopToolsTest: Pass
+shopsReviewShopsTest: Pass
+shopsScheduleShopsTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperToolsTest: Pass
+administratorsTrackerOptionsTest: Pass
+administratorsCreateClientsTest: Pass
+administratorsAddSurveyTest: Pass
+administratorsManageTest: Pass
+administratorsSurveyToolsTest: Pass
+administratorsCustomAdminFunctionsTest: Pass
+Run Complete: 25 passed, 0 failed.
+
+Run ended:		2014-11-25T14:10:09.948Z
+Run started:	2014-11-25T14:07:26.497Z
+Run duration:	PT2M43.451S
+AutoSchedulerTest: Pass
+AutoSchedulerTest: Pass
+AutoSchedulerTest: Pass
+AutoSchedulerTest: Pass
+AutoSchedulerTest: Pass
+Testing MSPMSAdminLinkSelect throwing exception: Pass
+Testing MSPGlobalLinkSelect throwing exception: Pass
+Testing MSPDBLinkSelect throwing exception: Pass
+Testing MSPAdminLinkSelect throwing exception: Pass
+Testing MSPHomeLinkSelect throwing exception: Pass
+clientsManageTest: Pass
+clientsLoginAsClientTest: Pass
+clientsExportTest: Pass
+shopsShopToolsTest: Pass
+shopsReviewShopsTest: Pass
+shopsScheduleShopsTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperToolsTest: Pass
+administratorsTrackerOptionsTest: Pass
+administratorsCreateClientsTest: Pass
+administratorsAddSurveyTest: Pass
+administratorsManageTest: Pass
+administratorsSurveyToolsTest: Pass
+administratorsCustomAdminFunctionsTest: Pass
+Run Complete: 25 passed, 0 failed.
+
+Run ended:		2014-11-25T14:21:54.707Z
+Run started:	2014-11-25T14:19:42.142Z
+Run duration:	PT2M12.565S
+AutoSchedulerTest on Sandbox: Pass
+AutoSchedulerTest on DEV: Pass
+AutoSchedulerTest on UAT: Pass
+AutoSchedulerTest on Stage: Pass
+AutoSchedulerTest on PROD: Pass
+Testing MSPMSAdminLinkSelect throwing exception: Pass
+Testing MSPGlobalLinkSelect throwing exception: Pass
+Testing MSPDBLinkSelect throwing exception: Pass
+Testing MSPAdminLinkSelect throwing exception: Pass
+Testing MSPHomeLinkSelect throwing exception: Pass
+clientsManageTest: Pass
+clientsLoginAsClientTest: Pass
+clientsExportTest: Pass
+shopsShopToolsTest: Pass
+shopsReviewShopsTest: Pass
+shopsScheduleShopsTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperToolsTest: Pass
+administratorsTrackerOptionsTest: Pass
+administratorsCreateClientsTest: Pass
+administratorsAddSurveyTest: Pass
+administratorsManageTest: Pass
+administratorsSurveyToolsTest: Pass
+administratorsCustomAdminFunctionsTest: Pass
+Run Complete: 25 passed, 0 failed.
+
+Run ended:		2014-11-25T14:49:41.560Z
+Run started:	2014-11-25T14:48:04.439Z
+Run duration:	PT1M37.121S
+AutoSchedulerTest on Sandbox: Pass
+AutoSchedulerTest on DEV: Pass
+AutoSchedulerTest on UAT: Pass
+AutoSchedulerTest on Stage: Pass
+AutoSchedulerTest on PROD: Pass
+Testing MSPMSAdminLinkSelect throwing exception: Pass
+Testing MSPGlobalLinkSelect throwing exception: Pass
+Testing MSPDBLinkSelect throwing exception: Pass
+Testing MSPAdminLinkSelect throwing exception: Pass
+Testing MSPHomeLinkSelect throwing exception: Pass
+Run Complete: 10 passed, 0 failed.
+
+Run ended:		2014-11-25T14:54:13.756Z
+Run started:	2014-11-25T14:52:28.504Z
+Run duration:	PT1M45.252S
+AutoSchedulerTest on Sandbox: Pass
+AutoSchedulerTest on DEV: Pass
+AutoSchedulerTest on UAT: Pass
+AutoSchedulerTest on Stage: Pass
+AutoSchedulerTest on PROD: Pass
+Testing MSPMSAdminLinkSelect throwing exception: Pass
+Testing MSPGlobalLinkSelect throwing exception: Pass
+Testing MSPDBLinkSelect throwing exception: Pass
+Testing MSPAdminLinkSelect throwing exception: Pass
+Testing MSPHomeLinkSelect throwing exception: Pass
+Run Complete: 10 passed, 0 failed.
+
+Run ended:		2014-11-25T14:57:53.678Z
+Run started:	2014-11-25T14:56:19.083Z
+Run duration:	PT1M34.595S
+AutoSchedulerTest on Sandbox: Pass
+AutoSchedulerTest on DEV: Pass
+AutoSchedulerTest on UAT: Pass
+AutoSchedulerTest on Stage: Pass
+AutoSchedulerTest on PROD: Pass
+Testing MSPMSAdminLinkSelect throwing exception: Pass
+Testing MSPGlobalLinkSelect throwing exception: Pass
+Testing MSPDBLinkSelect throwing exception: Pass
+Testing MSPAdminLinkSelect throwing exception: Pass
+Testing MSPHomeLinkSelect throwing exception: Pass
+Run Complete: 10 passed, 0 failed.
+
+Run ended:		2014-11-25T15:02:42.984Z
+Run started:	2014-11-25T15:02:01.621Z
+Run duration:	PT41.363S
+adminShopLogTest: Pass
+mainAdminHomeTest: Fail
+shopReviewTest: Fail
+helpTest: Fail
+schedulerMasterTest: Fail
+sessionsTest: Fail
+schedulerLogTest: Fail
+adminShopLogTest: Fail
+mainAdminHomeTest: Fail
+shopReviewTest: Fail
+helpTest: Fail
+schedulerMasterTest: Fail
+sessionsTest: Fail
+schedulerLogTest: Fail
+Run Complete: 1 passed, 13 failed.
+
+Run ended:		2014-11-25T20:52:37.786Z
+Run started:	2014-11-25T20:50:18.283Z
+Run duration:	PT2M19.503S
+AutoSchedulerTest on Sandbox: Pass
+AutoSchedulerTest on DEV: Pass
+AutoSchedulerTest on UAT: Pass
+AutoSchedulerTest on Stage: Pass
+AutoSchedulerTest on PROD: Pass
+Testing MSPMSAdminLinkSelect throwing exception: Pass
+Testing MSPGlobalLinkSelect throwing exception: Pass
+Testing MSPDBLinkSelect throwing exception: Pass
+Testing MSPAdminLinkSelect throwing exception: Pass
+Testing MSPHomeLinkSelect throwing exception: Pass
+clientsManageTest: Pass
+clientsLoginAsClientTest: Pass
+clientsExportTest: Pass
+shopsShopToolsTest: Pass
+shopsReviewShopsTest: Pass
+shopsScheduleShopsTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperToolsTest: Pass
+administratorsTrackerOptionsTest: Pass
+administratorsCreateClientsTest: Pass
+administratorsAddSurveyTest: Pass
+administratorsManageTest: Pass
+administratorsSurveyToolsTest: Pass
+administratorsCustomAdminFunctionsTest: Pass
+Run Complete: 25 passed, 0 failed.
+
+Run ended:		2014-12-01T19:56:38.090Z
+Run started:	2014-12-01T19:51:40.189Z
+Run duration:	PT4M57.901S
+AutoSchedulerTest on Sandbox: Pass
+AutoSchedulerTest on DEV: Pass
+AutoSchedulerTest on UAT: Pass
+AutoSchedulerTest on Stage: Pass
+AutoSchedulerTest on PROD: Pass
+Testing MSPMSAdminLinkSelect throwing exception: Pass
+Testing MSPGlobalLinkSelect throwing exception: Pass
+Testing MSPDBLinkSelect throwing exception: Pass
+Testing MSPAdminLinkSelect throwing exception: Pass
+Testing MSPHomeLinkSelect throwing exception: Pass
+clientsManageTest: Pass
+clientsLoginAsClientTest: Pass
+clientsExportTest: Pass
+shopsShopToolsTest: Pass
+shopsReviewShopsTest: Pass
+shopsScheduleShopsTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperToolsTest: Pass
+administratorsTrackerOptionsTest: Pass
+administratorsCreateClientsTest: Pass
+administratorsAddSurveyTest: Pass
+administratorsManageTest: Pass
+administratorsSurveyToolsTest: Pass
+administratorsCustomAdminFunctionsTest: Pass
+Run Complete: 25 passed, 0 failed.
+
+Run ended:		2014-12-01T21:11:49.184Z
+Run started:	2014-12-01T21:09:36.536Z
+Run duration:	PT2M12.648S
+AutoSchedulerTest on Sandbox: Pass
+AutoSchedulerTest on DEV: Pass
+AutoSchedulerTest on UAT: Pass
+AutoSchedulerTest on Stage: Pass
+AutoSchedulerTest on PROD: Pass
+Testing MSPMSAdminLinkSelect throwing exception: Pass
+Testing MSPGlobalLinkSelect throwing exception: Pass
+Testing MSPDBLinkSelect throwing exception: Pass
+Testing MSPAdminLinkSelect throwing exception: Pass
+Testing MSPHomeLinkSelect throwing exception: Pass
+clientsManageTest: Pass
+clientsLoginAsClientTest: Pass
+clientsExportTest: Pass
+shopsShopToolsTest: Pass
+shopsReviewShopsTest: Pass
+shopsScheduleShopsTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperToolsTest: Pass
+administratorsTrackerOptionsTest: Pass
+administratorsCreateClientsTest: Pass
+administratorsAddSurveyTest: Pass
+administratorsManageTest: Pass
+administratorsSurveyToolsTest: Pass
+administratorsCustomAdminFunctionsTest: Pass
+Run Complete: 25 passed, 0 failed.
+
+Run ended:		2014-12-01T21:13:43.020Z
+Run started:	2014-12-01T21:13:21.702Z
+Run duration:	PT21.318S
+Testing MSPMSAdminLinkSelect throwing exception: Pass
+Testing MSPGlobalLinkSelect throwing exception: Pass
+Testing MSPDBLinkSelect throwing exception: Pass
+Testing MSPAdminLinkSelect throwing exception: Pass
+Testing MSPHomeLinkSelect throwing exception: Pass
+Run Complete: 5 passed, 0 failed.
+
+Run ended:		2014-12-01T21:22:51.130Z
+Run started:	2014-12-01T21:22:30.544Z
+Run duration:	PT20.586S
+Testing MSPMSAdminLinkSelect throwing exception: Pass
+Testing MSPGlobalLinkSelect throwing exception: Pass
+Testing MSPDBLinkSelect throwing exception: Pass
+Testing MSPAdminLinkSelect throwing exception: Pass
+Testing MSPHomeLinkSelect throwing exception: Pass
+Run Complete: 5 passed, 0 failed.
+
+Run ended:		2014-12-01T21:23:53.486Z
+Run started:	2014-12-01T21:23:33.035Z
+Run duration:	PT20.451S
+Testing MSPMSAdminLinkSelect throwing exception: Pass
+Testing MSPGlobalLinkSelect throwing exception: Pass
+Testing MSPDBLinkSelect throwing exception: Pass
+Testing MSPAdminLinkSelect throwing exception: Pass
+Testing MSPHomeLinkSelect throwing exception: Pass
+Run Complete: 5 passed, 0 failed.
+
+Run ended:		2014-12-01T21:24:34.482Z
+Run started:	2014-12-01T21:24:14.657Z
+Run duration:	PT19.825S
+Testing MSPMSAdminLinkSelect throwing exception: Pass
+Testing MSPGlobalLinkSelect throwing exception: Pass
+Testing MSPDBLinkSelect throwing exception: Pass
+Testing MSPAdminLinkSelect throwing exception: Pass
+Testing MSPHomeLinkSelect throwing exception: Pass
+Run Complete: 5 passed, 0 failed.
+
+Run ended:		2014-12-01T21:27:01.408Z
+Run started:	2014-12-01T21:26:40.294Z
+Run duration:	PT21.114S
+Testing MSPMSAdminLinkSelect throwing exception: Pass
+Testing MSPGlobalLinkSelect throwing exception: Pass
+Testing MSPDBLinkSelect throwing exception: Pass
+Testing MSPAdminLinkSelect throwing exception: Pass
+Testing MSPHomeLinkSelect throwing exception: Pass
+Run Complete: 5 passed, 0 failed.
+
+Run ended:		2014-12-01T21:29:23.832Z
+Run started:	2014-12-01T21:29:03.580Z
+Run duration:	PT20.252S
+Testing MSPMSAdminLinkSelect throwing exception: Pass
+Testing MSPGlobalLinkSelect throwing exception: Pass
+Testing MSPDBLinkSelect throwing exception: Pass
+Testing MSPAdminLinkSelect throwing exception: Pass
+Testing MSPHomeLinkSelect throwing exception: Pass
+Run Complete: 5 passed, 0 failed.
+
+Run ended:		2014-12-03T15:27:40.205Z
+Run started:	2014-12-03T15:24:44.519Z
+Run duration:	PT2M55.686S
+AutoSchedulerTest on Sandbox: Pass
+AutoSchedulerTest on DEV: Pass
+AutoSchedulerTest on UAT: Pass
+AutoSchedulerTest on Stage: Pass
+AutoSchedulerTest on PROD: Pass
+Testing MSPMSAdminLinkSelect throwing exception: Pass
+Testing MSPGlobalLinkSelect throwing exception: Pass
+Testing MSPDBLinkSelect throwing exception: Pass
+Testing MSPAdminLinkSelect throwing exception: Pass
+Testing MSPHomeLinkSelect throwing exception: Pass
+clientsManageTest: Pass
+clientsLoginAsClientTest: Pass
+clientsExportTest: Pass
+shopsShopToolsTest: Pass
+shopsReviewShopsTest: Pass
+shopsScheduleShopsTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperToolsTest: Pass
+administratorsTrackerOptionsTest: Pass
+administratorsCreateClientsTest: Pass
+administratorsAddSurveyTest: Pass
+administratorsManageTest: Pass
+administratorsSurveyToolsTest: Pass
+administratorsCustomAdminFunctionsTest: Pass
+Run Complete: 25 passed, 0 failed.
+
+Run ended:		2014-12-03T15:32:09.693Z
+Run started:	2014-12-03T15:29:42.451Z
+Run duration:	PT2M27.242S
+AutoSchedulerTest on Sandbox: Pass
+AutoSchedulerTest on DEV: Pass
+AutoSchedulerTest on UAT: Pass
+AutoSchedulerTest on Stage: Pass
+AutoSchedulerTest on PROD: Pass
+Testing MSPMSAdminLinkSelect throwing exception: Pass
+Testing MSPGlobalLinkSelect throwing exception: Pass
+Testing MSPDBLinkSelect throwing exception: Pass
+Testing MSPAdminLinkSelect throwing exception: Pass
+Testing MSPHomeLinkSelect throwing exception: Pass
+clientsManageTest: Pass
+clientsLoginAsClientTest: Pass
+clientsExportTest: Pass
+shopsShopToolsTest: Pass
+shopsReviewShopsTest: Pass
+shopsScheduleShopsTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperBillingTest: Pass
+shoppersShopperToolsTest: Pass
+administratorsTrackerOptionsTest: Pass
+administratorsCreateClientsTest: Pass
+administratorsAddSurveyTest: Pass
+administratorsManageTest: Pass
+administratorsSurveyToolsTest: Pass
+administratorsCustomAdminFunctionsTest: Pass
+Run Complete: 25 passed, 0 failed.
+
+Run ended:		2014-12-03T18:05:57.756Z
+Run started:	2014-12-03T18:05:57.568Z
+Run duration:	PT0.188S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-03T18:08:00.302Z
+Run started:	2014-12-03T18:06:57.206Z
+Run duration:	PT1M3.096S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-03T18:10:27.362Z
+Run started:	2014-12-03T18:10:23.991Z
+Run duration:	PT3.371S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-03T19:15:27.154Z
+Run started:	2014-12-03T19:15:24.188Z
+Run duration:	PT2.966S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-03T19:17:54.092Z
+Run started:	2014-12-03T19:17:31.592Z
+Run duration:	PT22.5S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-03T20:00:06.903Z
+Run started:	2014-12-03T19:59:44.244Z
+Run duration:	PT22.659S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-03T21:15:04.646Z
+Run started:	2014-12-03T21:15:01.087Z
+Run duration:	PT3.559S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-03T21:15:35.331Z
+Run started:	2014-12-03T21:15:31.773Z
+Run duration:	PT3.558S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-03T21:17:24.614Z
+Run started:	2014-12-03T21:16:29.166Z
+Run duration:	PT55.448S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-03T21:23:49.335Z
+Run started:	2014-12-03T21:23:32.578Z
+Run duration:	PT16.757S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-03T21:24:49.161Z
+Run started:	2014-12-03T21:24:32.393Z
+Run duration:	PT16.768S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-03T21:32:46.757Z
+Run started:	2014-12-03T21:32:28.644Z
+Run duration:	PT18.113S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-03T21:33:32.497Z
+Run started:	2014-12-03T21:33:09.808Z
+Run duration:	PT22.689S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-03T21:37:12.348Z
+Run started:	2014-12-03T21:36:10.507Z
+Run duration:	PT1M1.841S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-03T21:37:51.918Z
+Run started:	2014-12-03T21:37:49.187Z
+Run duration:	PT2.731S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-03T21:39:35.209Z
+Run started:	2014-12-03T21:38:33.489Z
+Run duration:	PT1M1.72S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-03T21:44:00.858Z
+Run started:	2014-12-03T21:43:38.340Z
+Run duration:	PT22.518S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-03T21:50:50.629Z
+Run started:	2014-12-03T21:50:34.916Z
+Run duration:	PT15.713S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T15:40:43.673Z
+Run started:	2014-12-05T15:40:41.505Z
+Run duration:	PT2.168S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T15:41:09.501Z
+Run started:	2014-12-05T15:41:07.997Z
+Run duration:	PT1.504S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T15:42:09.200Z
+Run started:	2014-12-05T15:42:07.350Z
+Run duration:	PT1.85S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T15:42:56.029Z
+Run started:	2014-12-05T15:42:53.121Z
+Run duration:	PT2.908S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T15:44:07.696Z
+Run started:	2014-12-05T15:44:03.975Z
+Run duration:	PT3.721S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T15:45:24.755Z
+Run started:	2014-12-05T15:44:22.646Z
+Run duration:	PT1M2.109S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T15:48:17.142Z
+Run started:	2014-12-05T15:47:15.136Z
+Run duration:	PT1M2.006S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T15:50:17.737Z
+Run started:	2014-12-05T15:49:15.953Z
+Run duration:	PT1M1.784S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T15:53:37.236Z
+Run started:	2014-12-05T15:53:34.316Z
+Run duration:	PT2.92S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T15:54:30.619Z
+Run started:	2014-12-05T15:54:29.126Z
+Run duration:	PT1.493S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T15:55:54.067Z
+Run started:	2014-12-05T15:54:52.342Z
+Run duration:	PT1M1.725S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T17:37:49.190Z
+Run started:	2014-12-05T17:37:45.750Z
+Run duration:	PT3.44S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T17:38:06.665Z
+Run started:	2014-12-05T17:38:03.755Z
+Run duration:	PT2.91S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T17:39:26.538Z
+Run started:	2014-12-05T17:38:24.767Z
+Run duration:	PT1M1.771S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T17:39:53.085Z
+Run started:	2014-12-05T17:39:50.365Z
+Run duration:	PT2.72S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T17:41:08.556Z
+Run started:	2014-12-05T17:40:06.883Z
+Run duration:	PT1M1.673S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T17:43:10.008Z
+Run started:	2014-12-05T17:42:08.266Z
+Run duration:	PT1M1.742S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T17:44:27.861Z
+Run started:	2014-12-05T17:43:26.182Z
+Run duration:	PT1M1.679S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T17:44:47.409Z
+Run started:	2014-12-05T17:44:47.180Z
+Run duration:	PT0.229S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T17:45:18.190Z
+Run started:	2014-12-05T17:45:15.283Z
+Run duration:	PT2.907S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T17:47:33.672Z
+Run started:	2014-12-05T17:46:31.983Z
+Run duration:	PT1M1.689S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T17:59:51.557Z
+Run started:	2014-12-05T17:58:48.367Z
+Run duration:	PT1M3.19S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T18:09:14.671Z
+Run started:	2014-12-05T18:08:11.960Z
+Run duration:	PT1M2.711S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T18:11:50.484Z
+Run started:	2014-12-05T18:10:47.463Z
+Run duration:	PT1M3.021S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T18:54:30.327Z
+Run started:	2014-12-05T18:53:27.533Z
+Run duration:	PT1M2.794S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T19:00:19.723Z
+Run started:	2014-12-05T18:59:56.994Z
+Run duration:	PT22.729S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T19:00:58.345Z
+Run started:	2014-12-05T19:00:35.782Z
+Run duration:	PT22.563S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T19:05:00.040Z
+Run started:	2014-12-05T19:04:37.459Z
+Run duration:	PT22.581S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T19:25:35.302Z
+Run started:	2014-12-05T19:24:40.665Z
+Run duration:	PT54.637S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T19:28:42.095Z
+Run started:	2014-12-05T19:27:47.134Z
+Run duration:	PT54.961S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T19:46:38.086Z
+Run started:	2014-12-05T19:45:59.462Z
+Run duration:	PT38.624S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T19:48:32.143Z
+Run started:	2014-12-05T19:48:15.603Z
+Run duration:	PT16.54S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T19:56:16.638Z
+Run started:	2014-12-05T19:55:51.039Z
+Run duration:	PT25.599S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T20:14:27.767Z
+Run started:	2014-12-05T20:14:10.637Z
+Run duration:	PT17.13S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T20:15:45.658Z
+Run started:	2014-12-05T20:15:27.110Z
+Run duration:	PT18.548S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T20:16:23.528Z
+Run started:	2014-12-05T20:16:07.361Z
+Run duration:	PT16.167S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T20:18:10.605Z
+Run started:	2014-12-05T20:17:46.437Z
+Run duration:	PT24.168S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T20:23:43.333Z
+Run started:	2014-12-05T20:23:39.590Z
+Run duration:	PT3.743S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T20:29:20.694Z
+Run started:	2014-12-05T20:29:16.923Z
+Run duration:	PT3.771S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T20:32:48.269Z
+Run started:	2014-12-05T20:32:44.544Z
+Run duration:	PT3.725S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T20:38:40.420Z
+Run started:	2014-12-05T20:38:36.758Z
+Run duration:	PT3.662S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T20:39:31.109Z
+Run started:	2014-12-05T20:39:27.432Z
+Run duration:	PT3.677S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T20:40:57.928Z
+Run started:	2014-12-05T20:40:54.333Z
+Run duration:	PT3.595S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T20:50:22.080Z
+Run started:	2014-12-05T20:50:18.455Z
+Run duration:	PT3.625S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T20:51:29.230Z
+Run started:	2014-12-05T20:51:25.497Z
+Run duration:	PT3.733S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T20:54:26.766Z
+Run started:	2014-12-05T20:54:23.056Z
+Run duration:	PT3.71S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T20:55:24.329Z
+Run started:	2014-12-05T20:55:20.651Z
+Run duration:	PT3.678S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T20:56:10.228Z
+Run started:	2014-12-05T20:56:06.633Z
+Run duration:	PT3.595S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-05T20:56:31.287Z
+Run started:	2014-12-05T20:56:27.784Z
+Run duration:	PT3.503S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-08T18:23:14.088Z
+Run started:	2014-12-08T18:23:10.028Z
+Run duration:	PT4.06S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-08T18:23:47.007Z
+Run started:	2014-12-08T18:23:43.265Z
+Run duration:	PT3.742S
+Run Complete: 0 passed, 0 failed.
+
+Run ended:		2014-12-08T18:30:56.040Z
+Run started:	2014-12-08T18:30:52.710Z
+Run duration:	PT3.33S
+Testing MSPMSAdminLinkSelect throwing exception: Fail
+Run Complete: 0 passed, 1 failed.
+
+Run ended:		2014-12-08T18:31:42.139Z
+Run started:	2014-12-08T18:31:39.406Z
+Run duration:	PT2.733S
+Testing MSPMSAdminLinkSelect throwing exception: Fail
+Run Complete: 0 passed, 1 failed.
+
+Run ended:		2014-12-08T18:32:15.260Z
+Run started:	2014-12-08T18:32:11.620Z
+Run duration:	PT3.64S
+Testing MSPMSAdminLinkSelect throwing exception: Pass
+Testing MSPGlobalLinkSelect throwing exception: Pass
+Testing MSPDBLinkSelect throwing exception: Pass
+Testing MSPAdminLinkSelect throwing exception: Pass
+Testing MSPHomeLinkSelect throwing exception: Pass
+Run Complete: 5 passed, 0 failed.
+
+Run ended:		2014-12-08T18:33:39.184Z
+Run started:	2014-12-08T18:33:28.035Z
+Run duration:	PT11.149S
+AutoSchedulerTest on Sandbox: Fail
+Run Complete: 0 passed, 1 failed.
+
+Run ended:		2014-12-08T18:34:49.314Z
+Run started:	2014-12-08T18:34:43.241Z
+Run duration:	PT6.073S
+AutoSchedulerTest on Sandbox: Fail
+Run Complete: 0 passed, 1 failed.
+
+Run ended:		2014-12-08T18:53:15.570Z
+Run started:	2014-12-08T18:52:50.402Z
+Run duration:	PT25.168S
+AutoSchedulerTest on Sandbox: Fail
+Run Complete: 0 passed, 1 failed.
+
+Run ended:		2014-12-08T18:54:49.871Z
+Run started:	2014-12-08T18:54:42.269Z
+Run duration:	PT7.602S
+AutoSchedulerTest on Sandbox: Fail
+Run Complete: 0 passed, 1 failed.
+
+Run ended:		2014-12-08T18:55:30.726Z
+Run started:	2014-12-08T18:55:27.615Z
+Run duration:	PT3.111S
+AutoSchedulerTest on Sandbox: Fail
+Run Complete: 0 passed, 1 failed.
+
+Run ended:		2014-12-08T18:58:37.008Z
+Run started:	2014-12-08T18:58:30.823Z
+Run duration:	PT6.185S
+AutoSchedulerTest on Sandbox: Fail
+Run Complete: 0 passed, 1 failed.
+
+Run ended:		2014-12-08T18:59:14.876Z
+Run started:	2014-12-08T18:59:05.909Z
+Run duration:	PT8.967S
+AutoSchedulerTest on Sandbox: Fail
+Run Complete: 0 passed, 1 failed.
+
+Run ended:		2014-12-08T19:03:00.819Z
+Run started:	2014-12-08T19:02:45.017Z
+Run duration:	PT15.802S
+AutoSchedulerTest on Sandbox: Fail
+Run Complete: 0 passed, 1 failed.
+
+Run ended:		2014-12-08T19:28:11.887Z
+Run started:	2014-12-08T19:28:02.408Z
+Run duration:	PT9.479S
+AutoSchedulerTest on Sandbox: Fail
+Run Complete: 0 passed, 1 failed.
+
+Run ended:		2014-12-08T19:28:50.701Z
+Run started:	2014-12-08T19:28:33.550Z
+Run duration:	PT17.151S
+AutoSchedulerTest on Sandbox: Fail
+Run Complete: 0 passed, 1 failed.
+
+Run ended:		2014-12-08T19:29:36.817Z
+Run started:	2014-12-08T19:29:34.956Z
+Run duration:	PT1.861S
+AutoSchedulerTest on Sandbox: Fail
+Run Complete: 0 passed, 1 failed.
+
+Run ended:		2014-12-08T19:30:08.051Z
+Run started:	2014-12-08T19:29:56.938Z
+Run duration:	PT11.113S
+AutoSchedulerTest on Sandbox: Fail
+Run Complete: 0 passed, 1 failed.
+
+Run ended:		2014-12-08T19:43:58.332Z
+Run started:	2014-12-08T19:43:23.765Z
+Run duration:	PT34.567S
+AutoSchedulerTest on Sandbox: Fail
+Run Complete: 0 passed, 1 failed.
+
+Run ended:		2014-12-15T20:46:38.971Z
+Run started:	2014-12-15T20:45:11.107Z
+Run duration:	PT1M27.864S
+AutoSchedulerTest on Sandbox: Pass
+AutoSchedulerTest on DEV: Pass
+AutoSchedulerTest on UAT: Pass
+AutoSchedulerTest on Stage: Pass
+AutoSchedulerTest on PROD: Pass
+Run Complete: 5 passed, 0 failed.
+
+Run ended:		2014-12-15T21:00:49.111Z
+Run started:	2014-12-15T20:57:49.719Z
+Run duration:	PT2M59.392S
+AutoSchedulerTest on Sandbox: Pass
+AutoSchedulerTest on DEV: Pass
+AutoSchedulerTest on UAT: Pass
+AutoSchedulerTest on Stage: Pass
+AutoSchedulerTest on PROD: Pass
+Run Complete: 5 passed, 0 failed.
+
