@@ -53,7 +53,7 @@ public class Driver {
 		ChromeOptions cOptions = new ChromeOptions();
 		String userDirectory = System.getProperty("user.dir");
 		System.setProperty("webdriver.chrome.driver", userDirectory
-				+ "/misc/chromedriver.exe");
+				+ "/bin/chromedriver.exe");
 		currentDriver = cDriver = new ChromeDriver(cOptions);
 		currentWait = cWait = new WebDriverWait(cDriver, 20);
 	}

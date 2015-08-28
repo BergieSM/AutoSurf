@@ -152,10 +152,12 @@ public class TestCases {
 		// Master.setDebugOn(); //I do not recommend using this yet, still being
 		// fully implemented.
 
-		Driver.activateFirefox();
-		 fiveBoxCheck();
-		 superGlobalAdminExceptionsCheck();
-		 mainAdminNavigationCheck();
+		Driver.activateChrome();
+		ExperimentHereRun();
+		// Driver.activateFirefox();
+		// fiveBoxCheck();
+		// superGlobalAdminExceptionsCheck();
+		// mainAdminNavigationCheck();
 		// BARESSLTest();
 		// ExperimentHereRun();
 		// adminNavBarCheck();

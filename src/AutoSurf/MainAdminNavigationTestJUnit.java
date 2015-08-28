@@ -158,8 +158,14 @@ public class MainAdminNavigationTestJUnit {
 		Parameters.setSessionName("Automation Test");
 		Parameters.setSurvey("Test1");
 		TestCases.promptForSQLPassword();
+		/*if(args.length != 0){
+			Parameters.setSqlPassword(args[0]);
+			FileOutput.setStartTime(Instant.now());
+		}
+		else {TestCases.promptForSQLPassword();}*/
 
-		Driver.activateFirefox();
+		//Driver.activateFirefox();
+		Driver.activateChrome();
 		Navigation.goToSuperGlobal();
 		SuperGlobalAdmin.MSPAdminLinkSelect();
 	}
